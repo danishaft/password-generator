@@ -20,6 +20,7 @@ function generate() {
 
     password1 += firstPass;
     password2 += secondPass;
+    
    }
    pass1.innerHTML = password1;
    pass2.innerHTML = password2;
